@@ -54,7 +54,11 @@ li a:hover {
 }
 /*setting the image*/
 .bgimg-1 {
+<<<<<<< HEAD
   background-image: url("/paralax-scroll/pics/bg.jpg");
+=======
+  background-image: url("pics/bg.jpg");
+>>>>>>> e09d0f1fa4c472de9decfc52d4599b5efe07b20d
   min-height: 100%;
 }
 /*setting the image*/
